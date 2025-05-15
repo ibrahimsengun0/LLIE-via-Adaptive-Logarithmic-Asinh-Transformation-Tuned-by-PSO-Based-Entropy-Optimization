@@ -1,0 +1,5 @@
+opencv-python~=4.10.0.84
+numpy~=1.26.3
+torch~=2.3.1+cu118
+pyiqa~=0.1.13
+scikit-image~=0.24.0
