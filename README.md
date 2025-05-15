@@ -2,7 +2,7 @@
 
 ## Abstract
 
----
+
 
 Low-light images often suffer from poor visibility and a loss of detail due to
 challenging environmental conditions or suboptimal imaging devices. This degradation
@@ -27,7 +27,6 @@ generalizability of the proposed method.
 
 ## Installation
 
----
 
 ```bash
 pip install -r requirements.txt
@@ -37,7 +36,7 @@ pip install -r requirements.txt
 
 ## Usage
 
----
+
 
 ### 🧾 Arguments
 
@@ -75,11 +74,11 @@ python main.py -dataset_path datasets/lolv1/Test -output_path output/lolv1
 python main.py -image_pair_path datasets/lolv1/Test 1 -output_path output/image
 ```
 
----
+
 
 ## Results
 
----
+
 
 ### 🖼️ Qualitative Results
 
